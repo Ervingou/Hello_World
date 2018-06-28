@@ -1,0 +1,3 @@
+this is a vim test file
+how to use vim ?
+this is a question.
